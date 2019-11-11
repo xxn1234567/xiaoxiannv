@@ -1,4 +1,4 @@
-git add README.md# allure report
+# allure report
 reports/html/
 reports/xml/
 
@@ -24,7 +24,7 @@ lib/
 lib64/                                                                                        
 parts/                                                                                        
 sdist/                                                                                        
-var/                                                                                          
+var/
 wheels/                                                                                       
 *.egg-info/                                                                                   
 .installed.cfg                                                                                
